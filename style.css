@@ -1,6 +1,107 @@
 body{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	color:white;
+}
 
+a:hover {
+	color: #d85a5c;
+}
 
+.btn-primary{
+	background-color: #d85a5c ;
+	border: none;
+	
+}
 
+.btn-primary:hover {
+	background-color: black;
+}
 
+.title {
+	padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.title h1 {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 150px;
+	color: black;
+}
+
+.title h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 65px;
+	color: black;
+	margin-top: -35px;
+}
+
+.cover {
+	margin-left: 0px;
+}
+
+.question {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: black;
+}
+
+.question p {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 40px;
+}
+
+.question form {
+	margin-top: 40px;
+}
+
+.mot {
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: black;
+}
+
+.btn-valider {
+	background-color: #dd5a5c;
+	color: white;
+	font-style: 'Open Sans Condensed', sans-serif;
+	border: none;
+	margin-left: 20px;
+	height: 32px;
+}
+/*
+.bracket {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 200px;
+	color: #dd5a5c;
+}
+*/
+
+#question-thanks h1{
+     font-size: 60px;
+     font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#question-thanks p{
+	font-size: 20px;
+}
+
+.event {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	font-family: 'Open Sans Condensed' sans-serif;
+	color: black;
+}
+
+.event h1 {
+	font-size: 40px;
+}
+
+.event h2 {
+	font-size: 20px;
+}
+
+.img-contact {
+	margin-top: -87px;
+	margin-right: 15px;
 }
